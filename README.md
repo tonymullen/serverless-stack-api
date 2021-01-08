@@ -1,3 +1,52 @@
+# Serverless Stack Tutorial Notes API
+
+This is the Readme for the Serverless Stack Tutorial Notes API. This readme is where your main check-point updates will be made. The Notes App Client should be in a separate repository and should be linked to from somewhere at the top of this repository (and anywhere else in the readme where it is refered to). Like this:
+
+The corresponding Notes App Client is here:
+[https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAppClient](https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAppClient)
+
+A demo of the completed app can be seen [here](http://d1agakhdwn3ic5.cloudfront.net/).
+
+# Checkpoint updates
+
+For each assigned check-point deadline, you must update your readme with the content organized as shown below. Updates should be in reverse chronological order (latest at the top) and should have a header stating which check-point the update corresponds to.
+
+See the assignment description on Canvas for specifics on each check-point.
+
+## Checkpoint 4
+
+- Checkpoint 4 progress screenshot(s)
+- Checkpoint 4 AWS billing info screenshot
+- Checkpoint 4 question answers
+- At least 10 incremental commits in the commit history since checkpoint 3
+
+## Checkpoint 3
+
+- Checkpoint 3 progress screenshot(s)
+- Checkpoint 3 AWS billing info screenshot
+- Checkpoint 3 question answers
+- At least 10 incremental commits in the commit history since checkpoint 2
+
+## Checkpoint 2
+
+- Checkpoint 2 app progress screenshot(s)
+- Checkpoint 2 AWS billing info screenshot
+- Checkpoint 2 question answers
+- At least 10 incremental commits in the commit history since checkpoint 1
+
+## Checkpoint 1
+
+- Checkpoint 1 app screenshots
+- Checkpoint 1 AWS billing info screenshot
+- Checkpoint 1 question answers
+- At least 10 incremental commits in the commit history
+
+---
+
+For reference, boilerplate Readme content is below (students may delete this).
+
+---
+
 # Serverless Node.js Starter
 
 A Serverless starter that adds ES6, TypeScript, serverless-offline, linting, environment variables, and unit test support. Part of the [Serverless Stack](http://serverless-stack.com) guide.
