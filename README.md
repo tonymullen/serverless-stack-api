@@ -5,7 +5,7 @@ This is the Readme for the Serverless Stack Tutorial Notes API. This readme is w
 The corresponding Notes App Client is here:
 [https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAppClient](https://github.ccs.neu.edu/CS-7680-SEA-Spring2021/TonyMullen-Serverless-NotesAppClient)
 
-A demo of the completed app can be seen [here](http://d1agakhdwn3ic5.cloudfront.net/).
+A demo of the completed app can be seen [here](https://d1agakhdwn3ic5.cloudfront.net/).
 
 # Checkpoint updates
 
